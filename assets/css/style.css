@@ -13,26 +13,29 @@ body {
 }
 
 #container {
-    width: 1000px;
+    width: 1100px;
     margin: 0 auto;
-    border: 10px solid #b1f3f7;
+    border: solid 5px #000000;
 }
 
 #header {
     text-align: left;
     padding-top: 100px;
     padding-bottom: 50px;
-    background-color: #fcc7ff;
+    background-color: rgb(255, 167, 214);
+    background: url(883a187b70db23b0987fd4ce0d833015.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 #header #pIMG {
-    object-fit: contain;    
+    object-fit: cover;    
     width: 250px;
     height: 250px;
     margin-left: 50px;
     margin-right: auto;
-    border-radius: 40%;
-    border: 10px solid rgb(192, 192, 255);
+    border-radius: 50%;
+    border: 5px dotted rgb(169, 168, 168);
 }
 
 #header img:hover{
@@ -46,12 +49,12 @@ body {
     text-align: right;
     padding-top: 20px;
     margin-right: 25px;
-    margin-bottom: 0px;
-    color: rgb(0, 0, 0);
+    margin-bottom: 25px;
+    color: rgb(134, 124, 124);
 }
 
 #content {
-    background-color: #ADD9F4;
+    background-color: #9ea0a2;
     color: #000;
     padding: 50px;
 }
@@ -79,10 +82,10 @@ font-size: 2ch;
 }
 
 #experimental {
-    text-align: center;
-    background-color: #476C9B;
+    text-align: left;
     height: 500px;
     padding: 50px;
+    border: 5px solid #000;
 }
 
 #experimental #pimg {
@@ -90,21 +93,213 @@ font-size: 2ch;
 }
 
 #experimental h2 {
-    text-align: left;
+    text-align: center;
+    }
+
+#foto1 {
+    position: absolute;
+    left: 24cm;
+    top: 22.1cm;
 }
 
-#experimental h2 #pimg {
-    text-align: center;
+#foto2 {
+    position: absolute;
+    left: 25cm;
+    top: 22.1cm;
 }
+#foto4 {
+    position: absolute;
+    left: 8cm;
+    top: 25cm;
+}
+
+#foto3 {
+    position: absolute;
+    left: 8cm;
+    top: 32.5cm
+}
+
+#foto5 {
+    position: absolute;
+    left: 8cm;
+    top: 36cm;
+}
+
+#foto6 {
+    position: absolute;
+    left: 28cm;
+    top: 27cm;
+}
+
+#foto7 {
+    position: absolute;
+    left: 24cm;
+    top: 22.1cm;
+}
+
+#foto8 {
+    position: absolute;
+    left: 26cm;
+    top: 22.1cm;
+}
+
+#foto9 {
+    position: absolute;
+    left: 27cm;
+    top: 22.1cm;
+}
+
+#foto10 {
+    position: absolute;
+    left: 28cm;
+    top: 22.1cm;
+}
+
+#foto11 {
+    position: absolute;
+    left: 29cm;
+    top: 22.1cm;
+}
+
+#foto12 {
+    position: absolute;
+    left: 23cm;
+    top: 22.1cm;
+}
+
+#foto13 {
+    position: absolute;
+    left: 22cm;
+    top: 22.1cm;
+}
+
+#foto14 {
+    position: absolute;
+    left: 21cm;
+    top: 22.1cm;
+}
+
+#foto15 {
+    position: absolute;
+    left: 30cm;
+    top: 22.1cm;
+}
+
+#foto16 {
+    position: absolute;
+    left: 31cm;
+    top: 22.1cm;
+}
+
+#foto17 {
+    position: absolute;
+    left: 20cm;
+    top: 22.1cm;
+}
+
+#foto18 {
+    position: absolute;
+    left: 19cm;
+    top: 22.1cm;
+}
+
+#foto19 {
+    position: absolute;
+    left: 18cm;
+    top: 22.1cm;
+}
+
+#foto20 {
+    position: absolute;
+    left: 17cm;
+    top: 22.1cm;
+}
+
+#foto21 {
+    position: absolute;
+    left: 16cm;
+    top: 22.1cm;
+}
+
+#foto22 {
+    position: absolute;
+    left: 15cm;
+    top: 22.1cm;
+}
+
+#foto23 {
+    position: absolute;
+    left: 14cm;
+    top: 22.1cm;
+}
+
+#foto24 {
+    position: absolute;
+    left: 13cm;
+    top: 22.1cm;
+}
+
+#foto25 {
+    position: absolute;
+    left: 12cm;
+    top: 22.1cm;
+}
+
+#foto26 {
+    position: absolute;
+    left: 12cm;
+    top: 22.1cm;
+}
+
+#foto27 {
+    position: absolute;
+    left: 11cm;
+    top: 22.1cm;
+}
+
+#foto28 {
+    position: absolute;
+    left: 10cm;
+    top: 22.1cm;
+}
+
+#foto29 {
+    position: absolute;
+    left: 9cm;
+    top: 22.1cm;
+}
+
+#foto30 {
+    position: absolute;
+    left: 8cm;
+    top: 22.1cm;
+}
+
+#foto31 {
+    position: absolute;
+    left: 7cm;
+    top: 22.1cm;
+}
+
+#foto32 {
+    position: absolute;
+    left: 6cm;
+    top: 22.1cm;
+}
+
 
 #experimental {
+    background: url(8ja4k0jnelg81.jpg);
     background-color: #476C9B;
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 500px;
     padding: 50px;
 }
+
 #experimental h2 {
     text-align: right;
-    font-size: 0.9cm;
+    font-size: 0.8cm;
 }
 
 #footer {
