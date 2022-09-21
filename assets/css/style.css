@@ -142,12 +142,14 @@ body {
     position: absolute;
     left: 6.122cm;
     top: 22.1cm;
+    border-bottom-right-radius: 30%;
 }
 
 #alice {
     position: absolute;
     left: 25.1cm;
     top: 33.53cm;
+    border-top-left-radius: 30%;
 }
 
 #foto1 {
