@@ -138,6 +138,13 @@ body {
     text-align: center;
     }
 
+#experimental p {
+    position: absolute;
+    left: 12cm;
+    top: 23.2cm;
+    font-size: 23px;
+}
+
 #ozzy {
     position: absolute;
     left: 6.122cm;
@@ -150,6 +157,19 @@ body {
     left: 25.1cm;
     top: 33.53cm;
     border-top-left-radius: 30%;
+}
+
+#arrow1 {
+    position: absolute;
+    left: 12cm;
+    top: 24cm;
+}
+
+#arrow2 {
+    position: absolute;
+    transform: rotate(270deg);
+    left: 29.4cm;
+    top: 32.4cm;
 }
 
 #foto1 {
