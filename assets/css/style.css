@@ -147,29 +147,29 @@ body {
 
 #ozzy {
     position: absolute;
-    left: 6.122cm;
-    top: 22.1cm;
+    left: 232px;
+    top: 835px;
     border-bottom-right-radius: 30%;
 }
 
 #alice {
     position: absolute;
-    left: 25.1cm;
-    top: 33.53cm;
+    left: 948px;
+    top: 1267px;
     border-top-left-radius: 30%;
 }
 
 #arrow1 {
     position: absolute;
-    left: 12cm;
-    top: 24cm;
+    left: 450px;
+    top: 900px;
 }
 
 #arrow2 {
     position: absolute;
     transform: rotate(270deg);
-    left: 29.4cm;
-    top: 32.4cm;
+    left: 1100px;
+    top: 1220px;
 }
 
 #foto1 {
