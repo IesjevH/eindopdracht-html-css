@@ -67,7 +67,7 @@ body {
 #content {
     padding-left: 1cm;
     padding-right: 1cm;
-     background: linear-gradient(124deg, #ffffff, #c8c8c8, #9d9d9d, #808080, #737373, #424242, #323232, #222222, #000000);
+     background: linear-gradient(124deg, #3e0000, #4a0000, #520000, #6d0000, #740101, #960000, #a90000, #e40000, #ff0000);
       background-size: 1800% 1800%;
       
       -webkit-animation: rainbow 18s ease infinite;
