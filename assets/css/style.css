@@ -59,14 +59,14 @@ body {
     color: #8f8f8f;
     position: absolute;
     text-align: right;
-    font-size: 2cm;
-    left: 17cm;
-    top: 0.5cm;
+    font-size: 90px;
+    left: 660px;
+    top: 20px;
 }
 
 #content {
-    padding-left: 1cm;
-    padding-right: 1cm;
+    padding-left: 38px;
+    padding-right: 38px;
      background: linear-gradient(124deg, #3e0000, #4a0000, #520000, #6d0000, #740101, #960000, #a90000, #e40000, #ff0000);
       background-size: 1800% 1800%;
       
