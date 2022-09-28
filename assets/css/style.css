@@ -201,6 +201,10 @@ body {
     left: 28cm;
     top: 27cm;
 }
+.videoYouTube {
+    margin-left:150px;
+    margin-top: 200px;
+}
 
 #experimental {
     background: url(carti\ 2.jpg);
@@ -209,6 +213,12 @@ body {
     background-repeat: no-repeat;
     height: 500px;
     padding: 50px;
+}
+
+#video {
+    position: absolute;
+    left: 600px;
+    top: 1000px;
 }
 
 #experimental h2 {
