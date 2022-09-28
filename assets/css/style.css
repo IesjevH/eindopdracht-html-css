@@ -6,7 +6,7 @@
 
 body {
     background-color:rgb(192, 192, 255);
-    background: url(qev35eqa3q481.png); 
+    background: url(../images/qev35eqa3q481.png); 
     background-size: contain;
     background-position: left;
     background-repeat: repeat;
@@ -24,7 +24,7 @@ body {
     padding-top: 100px;
     padding-bottom: 100px;
     background-color: rgb(255, 167, 214);
-    background: url(883a187b70db23b0987fd4ce0d833015.jpg);
+    background: url(../images/883a187b70db23b0987fd4ce0d833015.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -207,7 +207,7 @@ body {
 }
 
 #experimental {
-    background: url(carti\ 2.jpg);
+    background: url(../images/carti\ 2.jpg);
     background-color: #476C9B;
     background-size: cover;
     background-repeat: no-repeat;
