@@ -231,3 +231,10 @@ body {
     padding-bottom: 30px;
     padding-top: 30px;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      background-image: url(qev35eqa3q481);
+    }
+  }
